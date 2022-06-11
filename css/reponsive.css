@@ -1,0 +1,99 @@
+@media (min-width: 46.25em) and (max-width: 63.9375em) {
+    .s-place-buy-btn {
+        padding: 13px 16px;
+    }
+    .contact-form .form-control {
+        border: 1px solid #ccc;
+    }
+    .col-full>.form-control {
+        width: 403px;
+    }
+    .contact-form .form-control {
+        padding: 15px;
+    }
+    .socials-list a {
+        font-size: 38px;
+        margin-left: 8px;
+    }
+    .send {
+        margin-right: 9px;
+    }
+}
+
+@media (max-width: 46.1875em) {
+    .s-full-width {
+        width: 100% !important;
+    }
+    .mt8 {
+        margin-top: 8px;
+    }
+    header {
+        overflow: hidden;
+    }
+    .header {
+        display: block;
+    }
+    .header ul {
+        display: block;
+    }
+    header ul>li:first-child {
+        display: inline-block;
+    }
+    header .sub-menu>li:first-child {
+        display: block;
+    }
+    .header .sub-menu {
+        position: initial;
+        background-color: #fff;
+    }
+    .header .sub-menu a {
+        color: #333;
+        padding: 5px 47px;
+    }
+    header .search {
+        display: none;
+    }
+    header .menu-btn {
+        display: block;
+    }
+    .content .band-list {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .content .band-item {
+        margin-bottom: 30px;
+    }
+    .content .band-avatar {
+        width: 60%;
+    }
+    .place-list {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .place-item {
+        margin-bottom: 18px;
+    }
+    .contact-info {
+        margin-bottom: 20px;
+    }
+    .contact-content {
+        display: flex;
+        flex-direction: column;
+    }
+    .contact-form .form-control {
+        width: 100%;
+    }
+    .contact-form .row-full {
+        display: flex;
+        flex-direction: column;
+    }
+    .contact-form .form-item {
+        padding-right: 16px;
+    }
+    .contact-form .send-list {
+        margin-left: 21px;
+    }
+    .col-half {
+        margin-right: 8px;
+    }
+}
